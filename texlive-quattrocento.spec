@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-quattrocento
 Version:	20130923
-Release:	3
+Release:	4
 Summary:	LaTeX support for Quattrocento and Quattrocento Sans fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/quattrocento
