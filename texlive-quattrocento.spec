@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-quattrocento
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	LaTeX support for Quattrocento and Quattrocento Sans fonts
 Group:		Publishing
