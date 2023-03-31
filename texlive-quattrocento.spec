@@ -1,6 +1,6 @@
 Name:		texlive-quattrocento
 Version:	64372
-Release:	1
+Release:	2
 Summary:	LaTeX support for Quattrocento and Quattrocento Sans fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/quattrocento
