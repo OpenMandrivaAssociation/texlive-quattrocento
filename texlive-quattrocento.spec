@@ -3,7 +3,7 @@ Version:	64372
 Release:	2
 Summary:	LaTeX support for Quattrocento and Quattrocento Sans fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/quattrocento
+URL:		https://www.ctan.org/tex-archive/fonts/quattrocento
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quattrocento.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quattrocento.doc.r%{version}.tar.xz
